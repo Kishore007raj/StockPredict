@@ -1,6 +1,6 @@
-# Stock Prediction Platform
+# StockPredict - Stock Prediction Platform
 
-A full-stack application for real-time stock tracking and prediction using FastAPI, WebSocket, Yahoo Finance API, and Supabase.
+A full-stack application for real-time stock tracking and prediction using Next.js, radix.ui, shadcn.ui,FastAPI, WebSocket, Yahoo Finance API, and Supabase.
 
 ## Features
 
