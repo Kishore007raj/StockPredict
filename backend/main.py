@@ -1,3 +1,7 @@
+#we are using fastapi to create a websocket server that will send stock data to the frontend
+#we are using yfinance to get stock data from yahoo finance
+#we are using uvicorn to run the fastapi server
+
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect, Depends, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List

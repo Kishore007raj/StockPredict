@@ -1,3 +1,6 @@
+# PostgreSQL database schema for stock prediction platform
+-- This schema includes tables for users, watchlists, watchlist items, and stock alerts.
+
 -- Create users table
 CREATE TABLE users (
     id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
