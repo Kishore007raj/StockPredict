@@ -1,3 +1,8 @@
+// This is a Next.js page component for the landing page of a stock prediction platform.
+// It includes sections for the hero, how it works, features, and a call to action.
+// It uses Tailwind CSS for styling and includes icons from the Lucide React library.
+// It also includes a button that links to the dashboard page and a footer with navigation links.
+
 import Link from "next/link"
 import { ArrowRight, BarChart3, Brain, Database } from "lucide-react"
 
