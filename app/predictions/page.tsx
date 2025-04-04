@@ -1,3 +1,5 @@
+// This file is part of the Stock Prediction Platform.
+//used for generating and analyzing stock price predictions with various models and factors.
 "use client"
 
 import { useState } from "react"
