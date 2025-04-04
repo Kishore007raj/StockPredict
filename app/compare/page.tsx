@@ -1,3 +1,6 @@
+//this is a Next.js page component for comparing stock performance
+// It allows users to select multiple stocks, view their performance over different timeframes, and compare key metrics 
+
 "use client"
 
 import { useState } from "react"
