@@ -1,3 +1,8 @@
+// This file is used to define the layout of the application
+// It includes the global styles, font imports, and the theme provider
+// It also includes the metadata for the application
+// It is a Next.js layout component that wraps the entire application
+
 import type React from "react"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
