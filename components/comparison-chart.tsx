@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react"
 import { CartesianGrid, Legend, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts"
-
 import { ChartContainer, ChartTooltipContent } from "@/components/ui/chart"
 
 // Mock data generator for the comparison chart

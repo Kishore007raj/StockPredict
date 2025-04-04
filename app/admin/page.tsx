@@ -1,10 +1,12 @@
+//this file is used to create the admin page for the stock prediction platform
+// it contains the layout and components for managing data, models, and system settings
+
 "use client"
 
 import type React from "react"
 
 import { useState } from "react"
 import { Calendar, Download, FileUp, RefreshCw, Upload } from "lucide-react"
-
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
