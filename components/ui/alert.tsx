@@ -1,3 +1,4 @@
+// This file is for the alert component
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 

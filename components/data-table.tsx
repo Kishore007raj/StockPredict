@@ -1,3 +1,5 @@
+//this is for the data table component
+
 "use client"
 
 import { useState } from "react"

@@ -1,3 +1,5 @@
+//This file is for the avatar component
+
 "use client"
 
 import * as React from "react"

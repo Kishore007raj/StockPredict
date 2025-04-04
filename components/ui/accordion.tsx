@@ -1,3 +1,4 @@
+// this is used for the accordion component
 "use client"
 
 import * as React from "react"

@@ -1,3 +1,5 @@
+//this is a custom hook for managing toast notifications in a React application
+
 "use client"
 
 // Inspired by react-hot-toast library
