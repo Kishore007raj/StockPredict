@@ -1,3 +1,9 @@
+// This is a Next.js page component for the dashboard of a stock prediction platform.
+// It displays real-time stock data, market summary, and quick actions.
+// It also includes a watchlist and recent predictions tabs for user interaction.
+// The component uses various UI components from a design system and includes mock data for demonstration purposes.
+
+
 "use client"
 
 import { useState } from "react"
