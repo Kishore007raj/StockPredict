@@ -12,8 +12,9 @@ A full-stack application for real-time stock tracking and prediction using Next.
 
 ## Prerequisites
 
-- Python 3.8+
-- Node.js 14+
+- TypeScript
+- Node.js
+- Python
 - Supabase account
 - Yahoo Finance API access
 
